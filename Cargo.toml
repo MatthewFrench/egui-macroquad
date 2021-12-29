@@ -20,7 +20,7 @@ include = [
 [dependencies]
 egui = { git = "https://github.com/emilk/egui", branch = "master" }
 egui-miniquad = { git = "https://github.com/MatthewFrench/egui-miniquad", branch = "master" }
-macroquad = { git = "https://github.com/not-fl3/macroquad", branch = "master" }
+macroquad = { git = "https://github.com/MatthewFrench/macroquad", branch = "master" }
 
 [dev-dependencies]
 egui_demo_lib = { version = "0.15.0", default-features = false }
